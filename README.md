@@ -1,10 +1,3 @@
-# NivelAcademicStress-Analisys
-Um análise do data set do nível acadêmico de estresse em python utilizando o Google Colab
-
-
-# 🧠 NivelAcademicStress-Analysis
-Uma análise do dataset de **nível acadêmico de estresse** em Python utilizando o **Google Colab**.
-
 # 📊 Análise de Nível de Estresse Acadêmico
 
 Este repositório apresenta uma análise exploratória de um dataset sobre **nível de estresse acadêmico**.  
