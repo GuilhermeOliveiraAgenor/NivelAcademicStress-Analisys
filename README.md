@@ -3,6 +3,8 @@
 Este repositório apresenta uma análise exploratória de um dataset sobre **nível de estresse acadêmico**.  
 O objetivo é entender como diferentes fatores acadêmicos e ambientais impactam o estresse dos estudantes.
 
+Slide - https://www.canva.com/design/DAG0GQCnuF4/DhWgA_P5xyT_t0NG5PEDvQ/edit?ui=eyJIIjp7IkEiOnRydWV9fQ
+
 ## 🛠️ Ferramentas Utilizadas
 
 - **Python** no Google Colab
